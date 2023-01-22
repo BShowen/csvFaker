@@ -8,21 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BShowen/csvFaker.git"
+    "url": "https://github.com/BShowen/csvFaker.git"
   },
   "keywords": [
     "csv",
-    "generate",
-    "csv",
-    "fake",
-    "csv",
-    "create",
-    "csv"
+    "generate csv",
+    "fake csv",
+    "create csv"
   ],
   "author": "Bradley Showen",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BShowen/csvFaker/issues"
   },
-  "homepage": "https://github.com/BShowen/csvFaker#readme"
+  "homepage": "https://github.com/BShowen/csvFaker#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
 }
