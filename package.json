@@ -1,0 +1,28 @@
+{
+  "name": "csvfaker",
+  "version": "1.0.0",
+  "description": "Create a .csv file (up to 500_000 rows) of fake data. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BShowen/csvFaker.git"
+  },
+  "keywords": [
+    "csv",
+    "generate",
+    "csv",
+    "fake",
+    "csv",
+    "create",
+    "csv"
+  ],
+  "author": "Bradley Showen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BShowen/csvFaker/issues"
+  },
+  "homepage": "https://github.com/BShowen/csvFaker#readme"
+}
